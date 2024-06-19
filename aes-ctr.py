@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-#
 # AES cryptography algorithm implementation in Counter mode
-#
+
 
 
 from Crypto.Cipher import AES
