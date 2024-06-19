@@ -2,8 +2,7 @@
 #
 # AES cryptography algorithm implementation in Counter mode
 #
-# Author: Radek Domanski
-# email: radek.domanski # gmail.com
+
 
 from Crypto.Cipher import AES
 from Crypto.Util import Counter
